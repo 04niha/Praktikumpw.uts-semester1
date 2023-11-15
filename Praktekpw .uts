@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Dokumen</title>
+    </head>
+    <body>
+        <fieldset>
+            <legend>
+                <h2>Booking service</h2>
+            </legend>
+            
+            
+            
+            
+            <form action="" method="">
+                
+                
+                
+                
+                  <div class="form-group">
+                <label for="jabatan">Jenis kendaraan</label>
+                <select id="pilih"name="pilihan">
+                    <option value="pilih">minibus</option>
+                    <option value="karyawan">mobil</option>
+                    <option value="motor">motor</option>
+                    <option value="bis">bis</option>
+                    <option value="pegawai">dan lain lain</option>
+                    </select>
+            </div>
+                
+                
+                
+                <br> 
+                
+                <label for="name">Nama pemesan:</label>
+                <input type="name" id="name">
+                </br>
+                <label for="adrees">kategori pemesan:</label>
+                
+                 <input type="radio" id="CW" name="crush" value="CW">
+                <label for="CW">pribadi</label>
+                
+                   <input type="radio" id="CW" name="crush" value="CW">
+                <label for="CW">perusahaan/organisasi</label> 
+                </select>
+                </br>
+                
+                </br> 
+                <label "w3review">Deskripsi
+         kebutuhan</label>
+         </br>
+         </br>
+         
+         <textarea id="w3review" rows="4" cols="50">
+         
+         
+           
+               
+                 
+                
+                
+                <textarea id="w3review" rows="4" cols="50">
+                    
+                </textarea>
+                
+                <br>
+                </br>
+                
+                
+                 <label for="birthday">jam,Tanggal service:</label>
+                
+  <input type="date" id="jam,tanggal service" name="jam,tanggal service">
+  </br>
+  </br>
+  </select>
+  
+  
+  
+  <label for="name"> request montir:</label>
+                <input type="name" id="name">
+                </br>
+                </br>
+                
+                
+                  <label for="name">Telepon/hp :</label>
+                <input type="name" id="name">
+                
+        
+                
+                
+                
+                </br>
+                </br>
+                
+                
+                
+                
+                 
+  <label for="name"> Email:</label>
+                <input type="name" id="name">
+                </br>
+                </br>
+                
+                
+                
+                 
+                   <input type="submit">
+                 
+                 
+                 
+               
+                 
+                 <input type="reset">
+                 
+                 
+                 
+            </form>
+            
+            
+        </fieldset>
+    </body>
+</html>
